@@ -23,7 +23,7 @@ no_index:
 provides:
   POE::Component::CPAN::Mirror::Multiplexer:
     file: lib/POE/Component/CPAN/Mirror/Multiplexer.pm
-    version: 0.02
+    version: 0.04
 requires:
   HTTP::Status: 5.817
   Moose: 0.81
@@ -41,4 +41,4 @@ resources:
   homepage: http://github.com/bingos/poe-component-cpan-mirror-multiplexer/tree
   license: http://dev.perl.org/licenses/
   repository: git://github.com/bingos/poe-component-cpan-mirror-multiplexer.git
-version: 0.02
+version: 0.04
